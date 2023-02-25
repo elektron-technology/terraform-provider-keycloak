@@ -6,7 +6,7 @@ require (
 	github.com/hashicorp/go-version v1.3.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.7.0
 	github.com/imdario/mergo v0.3.12
-	golang.org/x/net v0.0.0-20210326060303-6b1517762897
+	golang.org/x/net v0.7.0
 )
 
 go 1.16
